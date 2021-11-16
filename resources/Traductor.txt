@@ -1,0 +1,6 @@
+casa: house
+perro: dog
+carro: car
+niño : boy
+mama: mother
+bebe: baby
